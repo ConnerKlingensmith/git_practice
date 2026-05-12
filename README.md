@@ -9,4 +9,4 @@ This is a practice repository for learning Git.
 - Python 3
 - Git & GitHub
 
-## Updates from GitHub
+## Updated from GitHub
