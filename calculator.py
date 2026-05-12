@@ -22,3 +22,5 @@ def divide(a, b):
 def power(a, b):
     return a ** b
 print('calculator ready')
+
+# Calculator - Updated from GitHub Web Interface
