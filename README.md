@@ -8,3 +8,5 @@ This is a practice repository for learning Git.
 ## Technologies 
 - Python 3
 - Git & GitHub
+
+## Updates from GitHub
