@@ -14,3 +14,9 @@ This is a practice repository for learning Git.
 ## Development Environemnt
 - Using Visual Studio COde for Git integration
 - VS Code provides a visual interface for Git operations
+
+# Contributions
+
+## [Your Name]
+- Added percentage function
+- Date: [Today's date]
